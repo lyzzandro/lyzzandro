@@ -5,11 +5,16 @@
 
 <hr/>
 
+<p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyzzandro&show_icons=true&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyzzandro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</p>
+
 <hr/>
+
 #### Ferramentas e Tecnologias
 
 <p>
